@@ -1,0 +1,27 @@
+{
+  "name": "inv-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devVenus1202/invisible-technology.git"
+  },
+  "keywords": [
+    "invisible-technology",
+    "test",
+    "javascript"
+  ],
+  "author": "Venus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devVenus1202/invisible-technology/issues"
+  },
+  "homepage": "https://github.com/devVenus1202/invisible-technology#readme",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
+}
